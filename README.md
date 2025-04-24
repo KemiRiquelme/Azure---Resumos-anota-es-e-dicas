@@ -28,3 +28,30 @@ e tem sido super interessante aprender sobre o tema e conseguir acompanhar os pr
 ![image](https://github.com/user-attachments/assets/a4b94654-2843-4a9d-aad0-29af216cf966)
 
 
+
+Já estamos aprendendo a utilizar a ferramenta no site e realizei a criação de uma conta no Microsoft Azure e agora posso utilizar 
+a ferramenta por até um ano.
+
+
+https://portal.azure.com/#@sgapucminasbr.onmicrosoft.com/resource/subscriptions/93b3a671-3aaa-4d62-8a65-fafa45bb386b/overview
+
+![image](https://github.com/user-attachments/assets/e649686f-ea79-4fa4-9dfd-94da9bcd1188)
+![image](https://github.com/user-attachments/assets/42dba076-c4fd-4837-ad23-223d74b36f63)
+![image](https://github.com/user-attachments/assets/c111d874-9583-422e-95cf-1a7ec8ccb81f)
+
+Podemos também utilizar o Azure como :
+
+Serviços de IA do Azure.
+Catálogo de modelos de IA do Azure.
+Serviço OpenAI do Azure.
+Linguagem de IA do Azure.
+Azure AI Foundry.
+Visão de IA do Azure.
+Pesquisa de IA do Azure.
+Microsoft Copilot no Azure.
+
+
+
+
+
+
